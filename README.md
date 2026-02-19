@@ -68,3 +68,5 @@ The 'up' arrow (docs/images/up-arrow.png) used in the screenshots page is a publ
 The options page was copied in part from the `D&D Beyond Toolbox` extension available [here](https://github.com/mouse0270/Beyonds-Toolbox/). The html and css files are licensed under the MIT license which is provided in the LICENSE.MIT file
 
 The condition icons (FVTT-module/beyond20/conditions) are for the most part taken from https://game-icons.net/ and licensed under a Creative Common CC-BY 3.0 License. You can find each icon's source and respective license in the FVTT-module/beyond20/conditions/LICENSE file
+
+asdasdasd
